@@ -1,0 +1,5 @@
+Install Serverless : https://www.serverless.com/framework/docs/providers/aws/guide/installation/
+
+sudo sls create --template aws-python --path ServerlessAPI
+sudo sls deploy
+sudo sls remove
